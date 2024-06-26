@@ -1,8 +1,8 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FPratik-Jaysingpure&psig=AOvVaw2EEaNiBZoV2CfUbYaX05HB&ust=1719508491369000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKj16L3i-YYDFQAAAAAdAAAAABAJ)]
+![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)
 <h1 align="center">Hi 👋, I'm Ashish</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
-<p align="left"> <img src="https://iconscout.com/lottie-animation/web-development-4518781" alt="ashish5180" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="left"> <img src="https://avatars.githubusercontent.com/u/143157816?v=4" alt="ashish5180" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashish5180" alt="ashish5180" /></a> </p>
 
