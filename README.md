@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Mern stack**
 
-- 👨‍💻 All of my projects are available at [https://ashish-portfolio001.netlify.app]((https://ashish-portfolio001.netlify.app))
+- 👨‍💻 All of my projects are available at ((https://ashish-portfolio001.netlify.app))
 
 - 📫 How to reach me **theashish.y@gmail.com**
 
