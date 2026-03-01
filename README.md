@@ -1,12 +1,13 @@
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00ADD8&height=300&section=header&text=Initializing%20Personal%20OS...&fontSize=50&animation=twinkling&fontColor=ffffff" />
-</p>
+<div align="center">
+  <h2>🚀 System Architecture Progress</h2>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish5180&theme=radical&hide_border=true&stroke=00ADD8" alt="GitHub Streak" />
+</div>
+
+<br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Online-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Current_Level-SDE_Intern-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Scalability-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashish5180&theme=radical" />
 </div>
 
 <div align="center">
