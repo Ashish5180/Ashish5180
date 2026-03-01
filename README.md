@@ -1,3 +1,16 @@
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World%22);%F0%9F%9A%80;Building+Scalable+Backends;Go+Developer+%7C+AWS+Cloud;Crafting+Personal+OS;Leveling+Up+Every+Day...%E2%9A%A1" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <h1>Hey there! I'm Ashish 👋</h1>
+  <p align="center">
+    <strong>SDE Intern @ ASOASIS Tech | Go Enthusiast | Cloud Architect in Training</strong>
+  </p>
+</div>
+
+
 # 💫 About Me:
 🚀 I’m currently working on<br><br>🔹 Building scalable backend systems as an SDE Intern at ASOASIS Tech<br>🔹 Designing high-performance APIs and production-ready applications<br>🔹 Crafting my own Personal OS in Go as a command-driven productivity ecosystem<br><br>🤝 I’m looking to collaborate on<br><br>🔹 Cloud-native applications using AWS + Go<br>🔹 Full-stack products built with the MERN stack<br>🔹 Cross-platform mobile experiences powered by Flutter<br>🔹 Developer tools, automation systems, and performance-focused architectures<br><br>🛠 I’m looking for help with<br><br>🔹 Advanced system design and distributed architecture<br>🔹 Scaling backend services for real-world traffic<br>🔹 Deep cloud optimization strategies in AWS<br>🔹 Product growth and technical branding<br><br>🌱 I’m currently learning<br><br>🔹 Advanced Go patterns and concurrency mastery<br>🔹 Cloud infrastructure design and DevOps workflows<br>🔹 Performance optimization for APIs and mobile apps<br>🔹 Building production-grade SaaS systems<br><br>💬 Ask me about<br><br>🔹 Go, Flutter, MERN & AWS architecture<br>🔹 API design and backend performance<br>🔹 Building full-stack apps from idea to deployment<br>🔹 Turning side projects into real products<br><br>⚡ Fun fact<br><br>🔹 I don’t just build apps. I’m building my own OS.<br>🔹 Gamer mindset. Developer precision.<br>🔹 I treat every project like a boss level.
 
@@ -24,4 +37,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Ashish5180&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
