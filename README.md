@@ -1,15 +1,13 @@
 
-<div align="center">
-  <a href="https://github.com/Ashish5180">
-    <img src="https://skillicons.dev/icons?i=go,aws,mongodb,flutter,react,docker,html,css,js,ts,nodejs,nextjs,firebase,figma,postman" />
-  </a>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashish5180&repo=Personal-OS&theme=radical&show_owner=true" />
-</div>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=200&section=header&text=ASHISH%20YADAV&fontSize=90&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00ADD8&height=300&section=header&text=Initializing%20Personal%20OS...&fontSize=50&animation=twinkling&fontColor=ffffff" />
 </p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Online-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Current_Level-SDE_Intern-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Scalability-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</div>
 
 <div align="center">
   <h1>Hey there! I'm Ashish 👋</h1>
